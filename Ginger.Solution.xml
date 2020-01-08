@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<GingerRepositoryItem><Header ItemGuid="a904c2ac-10d3-4db9-9de2-caba18d46eff" ItemType="Solution" CreatedBy="MOHDKHAN" Created="201912260631" GingerVersion="3.4.0.0" Version="2" LastUpdateBy="MOHDKHAN" LastUpdate="201912260631" />
+<GingerRepositoryItem><Header ItemGuid="a904c2ac-10d3-4db9-9de2-caba18d46eff" ItemType="Solution" CreatedBy="MOHDKHAN" Created="201912260631" GingerVersion="3.4.0.0" Version="4" LastUpdateBy="MOHDKHAN" LastUpdate="202001081223" />
 <Solution AlmType="QC" Guid="a904c2ac-10d3-4db9-9de2-caba18d46eff" Name="GC-Demo-Solution" ParentGuid="00000000-0000-0000-0000-000000000000">
 <ApplicationPlatforms>
 <ApplicationPlatform AppName="MyWebApp" CoreGUID="00000000-0000-0000-0000-000000000000" Guid="125ae98a-be1a-4cf0-8c3f-7988227155ce" GUID="00000000-0000-0000-0000-000000000000" ParentGuid="00000000-0000-0000-0000-000000000000" Platform="Web" />
